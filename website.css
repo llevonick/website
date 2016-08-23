@@ -26,6 +26,11 @@ body{
 margin:0 auto;
 background-color:#C7D8C6;
 font-family:Goudy Old Style;
+font-size:18px;
+}
+
+p{
+line-height:50%;
 }
 
 .resume{
@@ -38,12 +43,13 @@ width:800px;
 hr{
 padding:0px;
 margin:-10px auto;
-border-color:#EFD9C1;
+border-color:#CCCBC6;
 }
 
 .right{
 float:right;
 font-style:italic;
+font-weight:normal;
 }
 
 .bold{
