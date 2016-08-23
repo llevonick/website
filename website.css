@@ -2,18 +2,61 @@ h1{
 background-color:#A9B7C0;
 margin:0 auto;
 }
+
 img{
 display:block;
 margin:0 auto;
 }
+
 h2{
 background-color:#EFD9C1;
 margin:0 auto;
 }
+
 h3{
 margin:0 auto;
+text-align:center;
+padding-top:20px;
+padding-bottom:5px;
+font-family: 'Coming Soon', cursive;
+font-size:15px;
 }
+
+body{
+margin:0 auto;
+background-color:#C7D8C6;
+font-family:Goudy Old Style;
+}
+
 .resume{
 background-color:#C7D8C6;
 margin:0 auto;
+padding:50px;
+width:800px;
+}
+
+hr{
+padding:0px;
+margin:-10px auto;
+border-color:#EFD9C1;
+}
+
+.right{
+float:right;
+font-style:italic;
+}
+
+.bold{
+text-align:left;
+font-weight:bold;
+}
+
+h4{
+font-size:19px;
+line-height:1%;
+}
+
+.section{
+font-family: 'Coming Soon', cursive;
+font-size:15px;
 }
