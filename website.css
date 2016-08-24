@@ -1,6 +1,11 @@
 h1{
 background-color:#A9B7C0;
 margin:0 auto;
+padding:0px;
+position:fixed;
+left:0;
+top:0;
+width:100%;
 }
 
 img{
@@ -9,6 +14,7 @@ margin:0 auto;
 }
 
 h2{
+padding-top:160px;
 background-color:#EFD9C1;
 margin:0 auto;
 }
@@ -73,4 +79,8 @@ padding-top:10px;
 padding-bottom:20px;
 padding-right:30px;
 font-size:15px;
+}
+
+a{
+color:black;
 }
