@@ -1,5 +1,8 @@
 h1{
 background-color:#A9B7C0;
+font-family: 'Sue Ellen Francisco', cursive;
+text-align:center;
+color:#EFD9C1;
 margin:0 auto;
 padding:0px;
 position:fixed;
@@ -83,4 +86,14 @@ font-size:15px;
 
 a{
 color:black;
+}
+
+#menu{
+padding-top:15px;
+float:right;
+}
+
+#blank{
+padding-top:15px;
+float:left;    
 }
