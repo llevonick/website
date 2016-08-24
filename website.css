@@ -86,14 +86,34 @@ font-size:15px;
 
 a{
 color:black;
+text-decoration:none;
 }
 
-#menu{
+.dropdown{
 padding-top:15px;
 float:right;
 }
 
+.dropdown:hover .items{
+display:block;
+}
+
+.items a:hover{
+background-color:#CCCBC6;
+}
+
+.items{
+display: none;
+background-color:#C7D8C6;
+position:absolute;
+box-shadow:0px 8px 16px 0px;
+font-family: 'Coming Soon', cursive;
+font-size:20px;
+
+}
+
+
 #blank{
 padding-top:15px;
-float:left;    
+float:left;
 }
