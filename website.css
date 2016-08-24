@@ -33,7 +33,7 @@ font-size:15px;
 
 body{
 margin:0 auto;
-background-color:#C7D8C6;
+background-color:#A9B7C0;
 font-family:Goudy Old Style;
 font-size:18px;
 }
@@ -43,7 +43,7 @@ line-height:50%;
 }
 
 .resume{
-background-color:#C7D8C6;
+background-color:#A9B7C0;
 margin:0 auto;
 padding:50px;
 width:800px;
@@ -93,7 +93,7 @@ text-decoration:none;
 .dropdown{
 padding-top:15px;
 float:right;
-padding-right:15px;
+padding-right:20px;
 }
 
 .dropdown:hover .items{
@@ -116,5 +116,28 @@ font-size:17px;
 #blank{
 padding-top:15px;
 float:left;
-padding-left:15px;
+padding-left:20px;
+}
+
+.aboutme{
+background-color:#C7D8C6;
+margin:0 auto;
+padding:30px;
+width:800px;
+}
+
+.aboutsection{
+width:100%;
+background-color:#C7D8C6;
+}
+
+#about{
+line-height:1;
+}
+
+#metop{
+display:block;
+height:50px;
+margin-top:-50px;
+visibility:hidden;
 }
