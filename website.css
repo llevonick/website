@@ -33,7 +33,7 @@ font-size:15px;
 
 body{
 margin:0 auto;
-background-color:#C7D8C6;
+background-color:#A9B7C0;
 font-family:Goudy Old Style;
 font-size:18px;
 }
@@ -48,6 +48,8 @@ margin:0 auto;
 padding:50px;
 width:800px;
 }
+
+.resumesection{background-color:#C7D8C6;}
 
 hr{
 padding:0px;
