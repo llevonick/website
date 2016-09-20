@@ -138,7 +138,7 @@ background-color:#CCCBC6;
 line-height:1;
 }
 
-#metop{
+#metop, #resumetop{
 display:block;
 height:50px;
 margin-top:-50px;
