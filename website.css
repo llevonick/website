@@ -149,3 +149,13 @@ visibility:hidden;
 display:inline;
 padding-bottom:0px;
 }
+
+#skills{
+text-align: center;
+}
+
+.skillType{
+font-style:italic;
+font-weight:normal;
+text-decoration: underline;
+}
