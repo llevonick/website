@@ -80,6 +80,7 @@ line-height:1%;
 .section{
 font-family: 'Coming Soon', cursive;
 font-size:15px;
+line-height:.5;
 }
 
 footer{
@@ -140,7 +141,7 @@ background-image: linear-gradient(to right, #7A7C7D, #CCCBC6);
 }
 
 #about{
-line-height:1;
+line-height:1.5;
 }
 
 #metop, #resumetop{
