@@ -36,6 +36,7 @@ font-size:15px;
 body{
 margin:0 auto;
 background-color:#A9B7C0;
+background-image: linear-gradient(to right, #718189, #A9B7C0);
 font-family:Goudy Old Style;
 font-size:18px;
 }
