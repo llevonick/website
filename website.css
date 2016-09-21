@@ -1,5 +1,6 @@
 h1{
 background-color:#A9B7C0;
+background-image: linear-gradient(to right, #718189, #A9B7C0);
 font-family: 'Sue Ellen Francisco', cursive;
 text-align:center;
 color:#EFD9C1;
@@ -19,6 +20,7 @@ margin:0 auto;
 h2{
 padding-top:160px;
 background-color:#EFD9C1;
+background-image: linear-gradient(to right, #9E968C, #EFD9C1);
 margin:0 auto;
 }
 
@@ -43,13 +45,15 @@ line-height:50%;
 }
 
 .resume{
-background-color:#C7D8C6;
 margin:0 auto;
 padding:50px;
 width:800px;
 }
 
-.resumesection{background-color:#C7D8C6;}
+.resumesection{
+background-color:#C7D8C6;
+background-image: linear-gradient(to right, #75817E, #C7D8C6);
+}
 
 hr{
 padding:0px;
@@ -80,6 +84,7 @@ font-size:15px;
 
 footer{
 background-color:#A9B7C0;
+background-image: linear-gradient(to right, #718189, #A9B7C0);
 text-align:right;
 padding-top:10px;
 padding-bottom:20px;
@@ -123,7 +128,6 @@ padding-left:20px;
 }
 
 .aboutme{
-background-color:#CCCBC6;
 margin:0 auto;
 padding:30px;
 width:800px;
@@ -132,6 +136,7 @@ width:800px;
 .aboutsection{
 width:100%;
 background-color:#CCCBC6;
+background-image: linear-gradient(to right, #7A7C7D, #CCCBC6);
 }
 
 #about{
