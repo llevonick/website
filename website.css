@@ -12,6 +12,13 @@ top:0;
 width:100%;
 }
 
+/* video {
+margin: 0;
+padding: 0;
+z-index: 1;
+position: fixed;
+} */
+
 img{
 display:block;
 margin:0 auto;
@@ -141,6 +148,19 @@ background-color:#CCCBC6;
 background-image: linear-gradient(to right, #7A7C7D, #CCCBC6, #CCCBC6);
 }
 
+/*.portfoliosection{
+width:100%;
+background-color:#EFD9C1;
+background-image: linear-gradient(to right, #9E968C, #EFD9C1, #EFD9C1);
+}
+
+.portfolio{
+margin: 0 auto;
+padding: 30px;
+padding-bottom: 600px;
+width: 800px;
+}*/
+
 #about{
 line-height:1.5;
 }
@@ -165,4 +185,14 @@ text-align: center;
 font-style:italic;
 font-weight:normal;
 text-decoration: underline;
+}
+
+.column-left{
+float: left;
+width: 45%;
+}
+
+.column-right{
+float: right;
+width: 30%;
 }
