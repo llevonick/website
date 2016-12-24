@@ -137,23 +137,6 @@ z-index: 2;
 line-height:50%;
 }
 
-/*.resume{
-position: relative;
-z-index: 2;
-margin:0 auto;
-padding:50px;
-width:800px;
-}
-
-.resumesection{
-position: relative;
-z-index: 2;
-background-color:#D4CED2;
-background-image: url(purpletex.jpg);
-background-attachment: fixed;
-width: 100%;
-}*/
-
 .education_sec, .skills_sec, .employment_sec, .activities_sec {
     position: relative;
     z-index: 2;
