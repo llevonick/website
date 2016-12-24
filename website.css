@@ -25,12 +25,12 @@ height: auto;
 transform: translate(-50%, -50%);
 }
 
-img{
+/*img{
 position: relative;
 display:block;
 margin:0 auto;
 z-index: 2;
-}
+}*/
 
 #tulips{
 position: relative;
@@ -45,11 +45,21 @@ padding: 0px;
 #project1{
 width: 320px;
 height: auto;
+padding: 0px;
+display:block;
+margin:0 auto;
+position: relative;
+z-index: 2;
 }
 
 #project2, #project3, #project5, #project6{
 width: 250px;
 height: auto;
+padding: 0px;
+display:block;
+margin:0 auto;
+position: relative;
+z-index: 2;
 }
 
 #project4{
