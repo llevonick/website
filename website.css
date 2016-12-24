@@ -25,12 +25,12 @@ height: auto;
 transform: translate(-50%, -50%);
 }
 
-/*img{
+img{
 position: relative;
 display:block;
 margin:0 auto;
 z-index: 2;
-}*/
+}
 
 #tulips{
 position: relative;
