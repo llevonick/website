@@ -30,6 +30,16 @@ position: relative;
 display:block;
 margin:0 auto;
 z-index: 2;
+padding: 0px;
+}
+
+#world{
+position: relative;
+display:block;
+margin:0 auto;
+z-index: 2;
+width: 800px;
+padding: 0px;
 }
 
 #tulips{
