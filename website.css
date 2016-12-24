@@ -32,6 +32,16 @@ margin:0 auto;
 z-index: 2;
 }
 
+#tulips{
+position: relative;
+display:block;
+margin:0 auto;
+z-index: 2;
+width: 160px;
+height:60px;
+padding: 0px;
+}
+
 h2{
 padding-top:160px;
 background-color:#D4CED2;
@@ -45,8 +55,8 @@ margin:0 auto;
 text-align:center;
 padding-top:20px;
 padding-bottom:5px;
-font-family: 'Coming Soon', cursive;
-font-size:15px;
+font-family: 'Sue Ellen Francisco', cursive;
+font-size:30px;
 }
 
 body{
@@ -64,7 +74,7 @@ z-index: 2;
 line-height:50%;
 }
 
-.resume{
+/*.resume{
 position: relative;
 z-index: 2;
 margin:0 auto;
@@ -78,6 +88,24 @@ z-index: 2;
 background-color:#D4CED2;
 background-image: url(purpletex.jpg);
 background-attachment: fixed;
+width: 100%;
+}*/
+
+.education_sec, .skills_sec, .employment_sec, .activities_sec {
+    position: relative;
+    z-index: 2;
+    background-color:#D4CED2;
+    background-image: url(purpletex.jpg);
+    background-attachment: fixed;
+    width: 100%;
+}
+
+.resume2{
+position: relative;
+z-index: 2;
+margin:0 auto;
+padding:10px;
+width:800px;
 }
 
 hr{
@@ -166,15 +194,15 @@ padding-left:20px;
 .aboutme{
 position: relative;
 z-index: 2;
-margin:0 auto;
 padding:30px;
 width:800px;
+margin:0 auto;
 }
 
 .aboutsection{
 position: relative;
 z-index: 2;
-width:100%;
+width: 100%;
 background-attachment: fixed;
 background-color:#DFDEB4;
 background-image: url(yellowtex.jpg);
