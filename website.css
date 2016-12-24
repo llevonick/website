@@ -13,6 +13,18 @@ width:100%;
 z-index: 4;
 }
 
+#link1{
+color:#D4CED2;
+padding-right: 15px;
+padding-left: 15px;
+}
+
+#link2{
+color:#CB5E64;
+padding-right: 15px;
+padding-left: 15px;
+}
+
 video {
 position: fixed;
 top: 50%;
@@ -39,6 +51,7 @@ display:block;
 margin:0 auto;
 z-index: 3;
 padding: 0px;
+padding-top: 120px;
 }
 
 #tulips{
@@ -279,7 +292,7 @@ width: 800px;
 line-height:1.5;
 }
 
-#metop, #resumetop{
+#metop, #resumetop, #porttop, #contacttop, #hometop{
 display:block;
 height:50px;
 margin-top:-50px;
